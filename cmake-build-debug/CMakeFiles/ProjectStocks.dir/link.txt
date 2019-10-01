@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ProjectStocks.dir/main.cpp.o CMakeFiles/ProjectStocks.dir/bank.cpp.o CMakeFiles/ProjectStocks.dir/stocks.cpp.o  -o ProjectStocks 

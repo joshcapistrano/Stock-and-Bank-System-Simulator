@@ -1,0 +1,3 @@
+/Users/joshcapistrano/CLionProjects/ProjectStocks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/joshcapistrano/CLionProjects/ProjectStocks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joshcapistrano/CLionProjects/ProjectStocks/cmake-build-debug/CMakeFiles/ProjectStocks.dir
